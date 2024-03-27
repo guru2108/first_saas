@@ -58,7 +58,7 @@ export default async function Component({
                         </Label>
                         <div className="flex space-x-2">
                             {data.tags.map((tag) => (
-                                <div className="w-1/4 p-[4px] text-center border-2 rounded-md border-card ">
+                                <div className="w-1/4 p-[4px] text-center border-2 rounded-md border-card " key={slug}>
                                     {tag}
                                 </div>
                             ))}
