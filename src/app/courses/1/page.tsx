@@ -100,7 +100,7 @@ export default function Component() {
                                         TODO app
                                     </h2>
                                     <p className="text-gray-500 dark:text-gray-400 max-w-3xl">
-                                        Let's break the boilerplate code step by
+                                        Lets break the boilerplate code step by
                                         step and explain every part.
                                         <p className="text-primary">
                                             Coming soon
